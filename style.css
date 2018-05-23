@@ -6,3 +6,9 @@ html, body{
 p{
     color: #ffffff;
 }
+.banner{
+    width: 500px;
+    height: 300px;
+
+    padding: 10px;
+}
